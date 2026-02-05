@@ -1,0 +1,7 @@
+console.log("novo arquivo2")
+console.log("novidade novaaa")
+console.log("novidade novaaa")
+console.log("novidade novaaa")
+console.log("novidade novaaa")
+console.log("novidade novaaa")
+console.log("novidade novaaa")
